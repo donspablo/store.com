@@ -1,5 +1,5 @@
 ---
-title: 'store.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'store.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "store.com is under construction."
 ---
 
